@@ -5,3 +5,6 @@ vim.opt.relativenumber = false
 
 -- provided by rust-analyzer.
 vim.g.lazyvim_rust_diagnostics = "rust-analyzer"
+
+-- typescript
+vim.g.lazyvim_ts_lsp = "vtsls"
