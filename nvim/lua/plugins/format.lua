@@ -19,6 +19,7 @@ return {
         typescriptreact = { "biome" },
         json = { "biome" },
         jsonc = { "biome" },
+        rust = { "rustfmt" },
       },
     },
   },
